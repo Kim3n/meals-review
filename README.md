@@ -39,3 +39,7 @@ To maintain code organization and modularity, my application adheres to the foll
 ## Enhanced Functionality
 
 To enhance the user experience, I've added an extra feature - a "Reviewed" navigation option in the app's drawer. Also, when you're checking out meal details, you'll see a button called "Add a Rating." It's hidden if a meal has already been rated. This feature makes it easier to manage meal ratings and keeps your culinary journey organized. You can also delete a meal from the "Reviewed" screen using the trash icon button.
+
+## Learning from the other person related to the assignment and their style of working?
+
+In our peer review group, we each tackled our own projects with the same assignment, and throughout our collaboration, we capitalized on our respective strengths, fostering an environment of open communication and cooperation. This experience highlighted the value of students with varying skill levels working together, learning from one another, and leveraging each other's strengths to achieve a common goal.
