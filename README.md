@@ -10,7 +10,7 @@ In this application, a user can perform a range of actions:
 - Similarly, I have the ability to remove meals from my favorites list if my culinary preferences evolve.
 - The integration of filters, tailored to dietary needs, is a noteworthy feature.
 - To keep track of personal preferences, I can assign ratings to the meals I've prepared.
-- A historical record of completed meals is maintained to recall previous culinary achievements.
+- A historical record of reviewed meals is maintained to recall previous culinary achievements.
 
 ## Application Architecture
 
@@ -19,7 +19,7 @@ The core of my application is encapsulated within the MealsApp widget, serving a
 - CategoriesScreen presents a list of meal categories that are interactive. Upon interaction, users are seamlessly redirected to the MealsScreen.
 - The FavoritesScreen also navigates the user to the MealsScreen, exhibiting meals labeled as favorites.
 
-Additionally, the application encompasses a user-friendly drawer offering three navigation alternatives: "Meals," "Settings," and "Completed." "Meals" promptly closes the drawer, "Settings" launches a novel screen, FilterScreen, enabling users to configure meal filters within categories, while "Completed" showcases a comprehensive listing of meals marked as completed and rated.
+Additionally, the application encompasses a user-friendly drawer offering three navigation alternatives: "Meals," "Settings," and "reviewed." "Meals" promptly closes the drawer, "Settings" launches a novel screen, FilterScreen, enabling users to configure meal filters within categories, while "reviewed" showcases a comprehensive listing of meals marked as reviewed and rated.
 Well-Structured Folders
 
 To maintain code organization and modularity, my application adheres to the following folder structure:
