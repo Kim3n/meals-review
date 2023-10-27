@@ -43,3 +43,6 @@ To enhance the user experience, I've added an extra feature - a "Reviewed" navig
 ## Learning from the other person related to the assignment and their style of working?
 
 In our peer review group, we each tackled our own projects with the same assignment, and throughout our collaboration, we capitalized on our respective strengths, fostering an environment of open communication and cooperation. This experience highlighted the value of students with varying skill levels working together, learning from one another, and leveraging each other's strengths to achieve a common goal.
+
+## Review of other students code
+the comments on the code can be found in their [repository](https://github.com/Kim3n/meals-app/pull/1)
